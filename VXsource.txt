@@ -1,0 +1,62 @@
+I'm trying to keep this without too much tech speak, for the young players commenting here. 
+I was going to mention this thing about tri-wave pattern detectors, but then I saw the mention 
+of using old soviet modules to boost tau-reactance and disable thermocoupling, so I didn't take 
+this post very seriously.
+I've never seen any reasonable data to support this nostalgic romanticism for old soviet VX gear. 
+Sure, many russian scientists and VX'ers did great things for their time back then (where would 
+VX be without the advancement of theories on mussorgsky spin, you know?), and chance occurrences 
+with crusty ferrocore flux-diodes have shown promise, but with advancements in material science 
+and production methods, the quality of most of our tools has risen sharply.
+I'm not saying hobbyists, or those (much respected) old-timers who have gotten used to the soviet 
+standards should give it up, not at all. Only that we should think twice before introducing it to 
+beginner VX'ers as a standard method to boost tau-reactance, or say that disabling thermocoupling 
+is just something you should do, or that either of these things are "no-brainers", because there are
+better, more reliable, standard methods today.
+Many people don't like hearing this, but VX still suffers from a high introductory threshold, steep 
+learning curve, and the difficulty of repeating experiments to get dependable results. Throwing 
+40-50 year old soviet gear into the equation isn't helping that. Go ahead and use what you're used 
+to and what gets you good results, but think twice before putting these historical idiosyncrasies 
+out there like they're something everyone should do.
+
+You're right about the Marlberg spectrum, that's kind of at the core here, but the quartz doesn't 
+really transmit by itself, it only generates the frequency when an electric potential is applied 
+across it. It's a simple matter of resonant oscillations, you need to tune your quartz crystal to 
+the right frequency with the rest of whatever VX module you're using it for at that time (or just, 
+you know, buy a bunch of different premade ones).
+If you're getting good results with an untuned one you must simply be extremely lucky with its 
+eigenfrequency fitting perfectly with the rest of your (probably junk) rig, or you've managed to 
+tweak other parts of your rig, or your idea of a high delta isn't the same as everyone's else's. 
+But I guess if you had an untuned one you wanted to use you could design the rest up to match, but 
+that's quite literally "putting the cart before the horse" like they say in English. So hey, it's 
+not impossible, it's just stupid or lucky.
+
+Anyone who disagrees that crossphasers are the single best way to negatively route the positively 
+charged cathodes can fight me. This meme clearly disregards actual common sense in favor of continuing 
+the circlejerk perpetuated by the recent wave of bandwagoners that think just because they saw a 
+youtube video explaining the decongesting of a still running AES that they know better than people 
+who actually have a passion for the hobby. I make my own Tstoff propellant for goodness sake! They 
+haven't manufactured anything like it for over a decade now, and these brats think somehow they are 
+special for knowing not to use LOX? Bite me.
+
+I think you're overestimating the potential of hard-bound ionic motivators. There is a reason why 
+everyone switched to lithium-based technology ages ago; the power output is simply not enough to 
+reliably reach the Rosenheim-equilibrium. That said, I too would be careful firing it up without 
+any sort of radiation shield.
+
+I hope you didn't win because that thing is a useless piece of crap.
+
+The ionic motivator should be fully grounded, you've barely even managed to get the steinmetz valves fully sealed. Your blueprints also show the waveform being at least 300mm out, so I'd be surprised if this thing even managed to get past the Freeman limit, let alone to a stable manifold phase.
+
+I know it was a quick, cheap build, but it's things like this that get people seriously hurt and gives this sub a bad name among serious enthusiasts.
+
+I couldn't agree more, it's like some people here don't even know what they're talking about.
+
+Some terrible advice here, some saying that it's containment rig may not be up to spec, others say it's missing a dimultion converter.
+
+Even you made the classic mistake of not using proper units, leading you to believe his waveform is 300mm out of alignment, when it is in fact, correct as is.
+
+This sub is unbelievable sometimes.
+
+Sounds like based on the terms of the bet, it only has to work for a little while. The instability will be there, for sure, but it should last long enough to win the guy the bet. You're right about the crappy power source though. I was in the middle of a run (trying to get to +.48 with minimum nabuferro input) and the power went out. I fired up my little Honda 2000 generator and was able to finish the run, but it was close, even with the "modulated" power inverter on the genny. Only go to +.423 though. 
+
+How did you actuate the gaussian crystal to produce enough teslas?? I can't ever seem to adjust the optical cavity enough to minimize decoherence enough to allow the phases to coalesce into the surface correctly. That and the Rybidium scattering makes life hell. Is this using a Feynman induction matrix or? 
